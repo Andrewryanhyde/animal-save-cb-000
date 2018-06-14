@@ -12,6 +12,6 @@ html {
 
 @media only screen and (max-width: 1200px) {
   #bear {
-    padding-left: 100px;
+    margin-right: 100px;
   }
 }
