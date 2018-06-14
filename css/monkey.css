@@ -16,7 +16,7 @@ html {
   }
 }
 
-@media only screen and (min-width: 406px) {
+@media only screen and (max-width: 406px) {
   #monkey {
     margin-top:40px;
   }
